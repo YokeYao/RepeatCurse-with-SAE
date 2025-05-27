@@ -1,0 +1,309 @@
+processing:   0%|          | 0/100 [00:00<?, ?it/s]processing:   1%|          | 1/100 [00:17<28:49, 17.47s/it]processing:   2%|▏         | 2/100 [00:31<25:41, 15.73s/it]processing:   3%|▎         | 3/100 [00:50<27:14, 16.85s/it]processing:   4%|▍         | 4/100 [01:04<25:27, 15.91s/it]processing:   5%|▌         | 5/100 [01:22<26:32, 16.76s/it]processing:   6%|▌         | 6/100 [01:53<33:53, 21.63s/it]processing:   7%|▋         | 7/100 [02:06<28:59, 18.71s/it]processing:   8%|▊         | 8/100 [02:14<23:23, 15.25s/it]processing:   9%|▉         | 9/100 [02:24<20:49, 13.73s/it]processing:  10%|█         | 10/100 [02:34<18:45, 12.50s/it]processing:  11%|█         | 11/100 [02:52<20:46, 14.00s/it]processing:  12%|█▏        | 12/100 [03:08<21:37, 14.74s/it]processing:  13%|█▎        | 13/100 [03:21<20:42, 14.29s/it]processing:  14%|█▍        | 14/100 [03:22<14:35, 10.18s/it]processing:  15%|█▌        | 15/100 [03:36<15:55, 11.24s/it]processing:  16%|█▌        | 16/100 [03:57<20:03, 14.33s/it]processing:  17%|█▋        | 17/100 [04:10<19:02, 13.77s/it]processing:  18%|█▊        | 18/100 [04:28<20:32, 15.03s/it]processing:  19%|█▉        | 19/100 [04:39<18:45, 13.90s/it]processing:  20%|██        | 20/100 [04:56<19:44, 14.81s/it]processing:  21%|██        | 21/100 [05:09<18:41, 14.19s/it]processing:  22%|██▏       | 22/100 [05:25<19:28, 14.98s/it]processing:  23%|██▎       | 23/100 [05:41<19:23, 15.11s/it]processing:  24%|██▍       | 24/100 [05:54<18:35, 14.68s/it]processing:  25%|██▌       | 25/100 [06:05<16:56, 13.56s/it]processing:  26%|██▌       | 26/100 [06:18<16:32, 13.41s/it]processing:  27%|██▋       | 27/100 [06:31<15:51, 13.04s/it]processing:  28%|██▊       | 28/100 [06:45<16:03, 13.39s/it]processing:  29%|██▉       | 29/100 [07:11<20:19, 17.18s/it]processing:  30%|███       | 30/100 [07:45<25:57, 22.25s/it]processing:  31%|███       | 31/100 [08:06<25:20, 22.04s/it]processing:  32%|███▏      | 32/100 [08:23<23:09, 20.43s/it]processing:  33%|███▎      | 33/100 [08:39<21:13, 19.01s/it]processing:  34%|███▍      | 34/100 [08:56<20:26, 18.59s/it]processing:  35%|███▌      | 35/100 [09:21<21:56, 20.25s/it]processing:  36%|███▌      | 36/100 [09:40<21:14, 19.91s/it]processing:  37%|███▋      | 37/100 [09:40<14:52, 14.16s/it]processing:  38%|███▊      | 38/100 [10:14<20:48, 20.13s/it]processing:  39%|███▉      | 39/100 [10:39<21:43, 21.36s/it]processing:  40%|████      | 40/100 [10:53<19:14, 19.24s/it]processing:  41%|████      | 41/100 [11:10<18:14, 18.56s/it]processing:  42%|████▏     | 42/100 [11:27<17:24, 18.01s/it]processing:  43%|████▎     | 43/100 [11:27<12:08, 12.78s/it]processing:  44%|████▍     | 44/100 [11:46<13:31, 14.49s/it]processing:  45%|████▌     | 45/100 [12:10<15:57, 17.40s/it]processing:  46%|████▌     | 46/100 [12:26<15:11, 16.87s/it]processing:  47%|████▋     | 47/100 [12:41<14:25, 16.33s/it]processing:  48%|████▊     | 48/100 [12:54<13:28, 15.56s/it]processing:  49%|████▉     | 49/100 [12:55<09:24, 11.07s/it]processing:  50%|█████     | 50/100 [13:16<11:38, 13.97s/it]processing:  51%|█████     | 51/100 [13:30<11:24, 13.97s/it]processing:  52%|█████▏    | 52/100 [13:50<12:45, 15.95s/it]processing:  53%|█████▎    | 53/100 [13:51<08:54, 11.37s/it]processing:  54%|█████▍    | 54/100 [14:07<09:44, 12.70s/it]processing:  55%|█████▌    | 55/100 [14:07<06:49,  9.10s/it]processing:  56%|█████▌    | 56/100 [14:08<04:49,  6.57s/it]processing:  57%|█████▋    | 57/100 [14:23<06:30,  9.09s/it]processing:  58%|█████▊    | 58/100 [14:42<08:28, 12.11s/it]processing:  59%|█████▉    | 59/100 [14:56<08:35, 12.56s/it]processing:  60%|██████    | 60/100 [15:13<09:18, 13.96s/it]processing:  61%|██████    | 61/100 [15:31<09:51, 15.17s/it]processing:  62%|██████▏   | 62/100 [15:32<06:51, 10.82s/it]processing:  63%|██████▎   | 63/100 [15:54<08:49, 14.30s/it]processing:  64%|██████▍   | 64/100 [15:55<06:06, 10.19s/it]processing:  65%|██████▌   | 65/100 [16:14<07:27, 12.80s/it]processing:  66%|██████▌   | 66/100 [16:30<07:52, 13.90s/it]processing:  67%|██████▋   | 67/100 [16:46<07:53, 14.36s/it]processing:  68%|██████▊   | 68/100 [16:46<05:28, 10.26s/it]processing:  69%|██████▉   | 69/100 [16:47<03:48,  7.36s/it]processing:  70%|███████   | 70/100 [17:00<04:35,  9.17s/it]processing:  71%|███████   | 71/100 [17:14<05:05, 10.53s/it]processing:  72%|███████▏  | 72/100 [17:26<05:11, 11.13s/it]processing:  73%|███████▎  | 73/100 [17:41<05:27, 12.12s/it]processing:  74%|███████▍  | 74/100 [17:58<05:53, 13.58s/it]processing:  75%|███████▌  | 75/100 [18:15<06:04, 14.58s/it]{'question': 'What are some examples of professions where physics concepts are used daily?', 'llm_judge': '\n\n0'}
+{'question': 'How has our ability to manipulate materials and create objects evolved throughout history according to the paragraph?', 'llm_judge': '\n\n0'}
+{'question': 'Who invented the MOSFET, and how is it used today?', 'llm_judge': '\n\n1'}
+{'question': 'How do pilots need to apply physics concepts in their work?', 'llm_judge': '\n\n1'}
+{'question': 'Why is understanding the difference between principles and laws important in physics?', 'llm_judge': '\n\n0'}
+{'question': 'How has the study of physics evolved from ancient times to Sir Isaac Newton?', 'llm_judge': '\n\n0'}
+{'question': 'In what way does physics help us understand the interconnectedness of the universe, as mentioned in the paragraph?', 'llm_judge': '\n\n0'}
+{'question': 'How does physics play a role in heating a home, according to the paragraph?', 'llm_judge': '\n\n0'}
+{'question': 'Why is clear communication important in scientific research, as mentioned in the paragraph?', 'llm_judge': '\n\n0'}
+{'question': 'What significance does physics hold in technological advancements, as highlighted in the paragraph?', 'llm_judge': '\n\n0'}
+{'question': 'What is the concept of relativistic quantum mechanics and when is it used in physics?', 'llm_judge': '\n\n0'}
+{'question': 'How do laws of nature differ from scientific theories?', 'llm_judge': '\n\n0'}
+{'question': 'What is the Equation Grapher tool in PHET Explorations used for?', 'llm_judge': '\n\n1'}
+{'question': 'What are the four fundamental physical quantities mentioned in the paragraph?', 'llm_judge': '\n\n0'}
+{'question': 'How are physical quantities expressed in physics?', 'llm_judge': '\n\n1'}
+{'question': 'When are theories like relativity and quantum mechanics used in physics?', 'llm_judge': '\n\n0'}
+{'question': 'What is the importance of understanding mathematical concepts in physics?', 'llm_judge': '\n\n1'}
+{'question': 'How does relativistic quantum mechanics contribute to physics?', 'llm_judge': '\n\n0'}
+{'question': 'Why is it important to use standardized units in expressing physical measurements?', 'llm_judge': '\n\n1'}
+{'question': 'What is the significance of the range of objects and phenomena studied in physics?', 'llm_judge': '\n\n0'}
+{'question': 'What is the difference between accuracy and precision when it comes to measurement?', 'llm_judge': '\n\n1'}
+{'question': 'How are significant figures used to indicate the precision of a measurement?', 'llm_judge': '\n\n1'}
+{'question': 'Are leading zeros considered significant figures in a measurement?', 'llm_judge': '\n\n1'}
+{'question': 'What are nonstandard units of measurement, and can you provide an example?', 'llm_judge': '\n\n1'}
+{'question': 'Which fundamental unit should be used to measure the time it takes for a hummingbird to beat its wings?', 'llm_judge': '\n\n1'}
+{'question': 'What is the relationship between a cubic centimeter and a milliliter?', 'llm_judge': '\n\n1'}
+{'question': 'How do trailing zeros in a measurement affect the number of significant figures?', 'llm_judge': '\n\n1'}
+{'question': 'If a measurement is accurate but not precise, what does that indicate about the measurement system?', 'llm_judge': '\n\n1'}
+{'question': 'Why are significant figures important in scientific measurements?', 'llm_judge': '\n\n1'}
+{'question': 'Can you provide an example of a situation where accuracy and precision are both crucial in measurements?', 'llm_judge': '\n\n0'}
+{'question': 'What does the symbol ∆x represent in physics?', 'llm_judge': '\n\n1'}
+{'question': 'How is displacement different from distance traveled?', 'llm_judge': '\n\n1'}
+{'question': 'If an object moves to the left, what sign would its displacement have?', 'llm_judge': '\n\n1'}
+{'question': 'Can displacement be measured in kilometers?', 'llm_judge': '\n\n1'}
+{'question': 'A professor paces left and right for a total of 2.0 m to the right. What is the displacement?', 'llm_judge': '\n\n1'}
+{'question': 'If a passenger moves 4.0 m toward the rear of a plane, what is the displacement?', 'llm_judge': '\n\n1'}
+{'question': 'How is displacement calculated?', 'llm_judge': '\n\n1'}
+{'question': 'Is displacement a vector or scalar quantity?', 'llm_judge': '\n\n0'}
+{'question': 'If an object moves to the right, what sign would its displacement have?', 'llm_judge': '\n\n1'}
+{'question': 'In what units is displacement typically measured in the International System of Units (SI)?', 'llm_judge': '\n\n1'}
+{'question': 'What is the difference between displacement and distance in physics?', 'llm_judge': '\n\n1'}
+{'question': 'How can the displacement be negative in a one-dimensional motion?', 'llm_judge': '\n\n1'}
+{'question': 'Is it possible for the distance traveled to be greater than the magnitude of the displacement? Explain.', 'llm_judge': '\n\n0'}
+{'question': 'Is displacement a scalar or vector quantity? Why?', 'llm_judge': '\n\n1'}
+{'question': 'Can an object have a displacement of 0 but still travel a distance? How?', 'llm_judge': '\n\n1'}
+{'question': 'How can you determine the displacement of an object from a position-time graph?', 'llm_judge': '\n\n1'}
+{'question': 'Is distance a vector or scalar quantity? Why?', 'llm_judge': '\n\n1'}
+{'question': 'How does displacement differ from magnitude of displacement in kinematics?', 'llm_judge': '\n\n1'}
+{'question': 'Can an object have a negative distance traveled? Why or why not?', 'llm_judge': '\n\n0'}
+{'question': 'How does displacement take into account the direction of motion, unlike distance?', 'llm_judge': '\n\n0'}
+{'question': 'What is the SI unit for time?', 'llm_judge': '\n\n1'}
+{'question': 'What is the difference between velocity and speed?', 'llm_judge': '\n\n1'}
+{'question': 'How is velocity calculated?', 'llm_judge': '\n\n0'}
+{'question': 'Can an object have a velocity of zero but still have speed?', 'llm_judge': '\n\n0'}
+{'question': 'What does it mean if an object has a large displacement in a small amount of time?', 'llm_judge': '\n\n0'}
+{'question': 'How is speed calculated?', 'llm_judge': '\n\n1'}
+{'question': 'If an object is moving at a constant speed, can its velocity change?', 'llm_judge': '\n\n1'}
+{'question': 'How does time play a role in understanding motion?', 'llm_judge': '\n\n1'}
+{'question': 'What is the difference between speed and average speed?', 'llm_judge': '\n\n1'}
+{'question': 'Can an object have a velocity of zero and still be in motion?', 'llm_judge': '\n\n0'}
+{'question': 'What is the difference between average acceleration and instantaneous acceleration?', 'llm_judge': '\n\n1'}
+{'question': 'Is deceleration technically negative acceleration?', 'llm_judge': '\n\n1'}
+{'question': 'How is acceleration related to velocity?', 'llm_judge': '\n\n1'}
+{'question': 'Can acceleration be zero?', 'llm_judge': '\n\n0'}
+{'question': 'Why is acceleration considered a vector quantity?', 'llm_judge': '\n\n0'}
+{'question': 'How is acceleration calculated in the example of a car going from 20 m/s to 40 m/s in 5 seconds?', 'llm_judge': '\n\n1'}
+{'question': '- Average acceleration = (40 m/s - 20 m/s) / 5 s', 'llm_judge': '\n\n0'}
+{'question': 'What units are used to measure acceleration?', 'llm_judge': '\n\n0'}
+{'question': 'How can acceleration be positive, negative, or zero?', 'llm_judge': '\n\n0'}
+{'question': 'Can acceleration exist without a change in velocity magnitude?', 'llm_judge': '\n\n1'}
+{'question': 'What is the significance of taking the derivative of the velocity function with respect to time in calculating instantaneous acceleration?', 'llm_judge': '\n\n1'}
+{'question': 'What is the equation for displacement under constant acceleration in one dimension?', 'llm_judge': '\n\n1'}
+{'question': 'What is the formula to find the final velocity of an object with constant acceleration?', 'llm_judge': '\n\n1'}
+{'question': 'How do you calculate the final position of an object with constant acceleration?', 'llm_judge': '\n\n1'}
+{'question': 'Why do we assume acceleration is constant in these equations?', 'llm_judge': '\n\n1'}
+processing:  76%|███████▌  | 76/100 [18:30<05:52, 14.71s/it]processing:  77%|███████▋  | 77/100 [18:45<05:43, 14.91s/it]processing:  78%|███████▊  | 78/100 [19:05<06:00, 16.38s/it]processing:  79%|███████▉  | 79/100 [19:25<06:06, 17.47s/it]processing:  80%|████████  | 80/100 [19:44<05:59, 17.99s/it]processing:  81%|████████  | 81/100 [20:10<06:25, 20.28s/it]processing:  82%|████████▏ | 82/100 [20:24<05:30, 18.36s/it]processing:  83%|████████▎ | 83/100 [20:40<05:01, 17.73s/it]processing:  84%|████████▍ | 84/100 [20:55<04:28, 16.80s/it]processing:  85%|████████▌ | 85/100 [21:17<04:38, 18.58s/it]processing:  86%|████████▌ | 86/100 [21:35<04:17, 18.38s/it]processing:  87%|████████▋ | 87/100 [21:53<03:56, 18.16s/it]processing:  88%|████████▊ | 88/100 [22:11<03:39, 18.26s/it]processing:  89%|████████▉ | 89/100 [22:27<03:12, 17.46s/it]processing:  90%|█████████ | 90/100 [22:43<02:49, 16.91s/it]processing:  91%|█████████ | 91/100 [22:56<02:22, 15.86s/it]processing:  92%|█████████▏| 92/100 [23:12<02:07, 15.91s/it]processing:  93%|█████████▎| 93/100 [23:31<01:58, 16.96s/it]processing:  94%|█████████▍| 94/100 [23:49<01:42, 17.05s/it]processing:  95%|█████████▌| 95/100 [23:49<01:00, 12.12s/it]processing:  96%|█████████▌| 96/100 [24:06<00:54, 13.54s/it]processing:  97%|█████████▋| 97/100 [24:12<00:33, 11.23s/it]processing:  98%|█████████▊| 98/100 [24:31<00:26, 13.49s/it]processing:  99%|█████████▉| 99/100 [24:48<00:14, 14.56s/it]processing: 100%|██████████| 100/100 [25:03<00:00, 14.63s/it]processing: 100%|██████████| 100/100 [25:03<00:00, 15.03s/it]
+{'question': 'How do we avoid using calculus in finding instantaneous acceleration in constant acceleration scenarios?', 'llm_judge': '\n\n1'}
+{'question': 'What is the significance of using subscript 0 in the motion equations?', 'llm_judge': '\n\n1'}
+{'question': 'What is the equation for change in velocity under constant acceleration?', 'llm_judge': '\n\n1'}
+{'question': 'How can you find the displacement of an object given initial velocity, acceleration, and time?', 'llm_judge': '\n\n0'}
+{'question': 'Can you predict the motion of an object with constant acceleration using these equations?', 'llm_judge': '\n\n1'}
+{'question': 'In one dimension with constant acceleration, are average and instantaneous accelerations equal?', 'llm_judge': '\n\n1'}
+{'question': 'What is the first step in problem-solving for one-dimensional kinematics?', 'llm_judge': '\n\n1'}
+{'question': 'How can a simple sketch be helpful in problem-solving in physics?', 'llm_judge': '\n\n0'}
+{'question': 'Why is it important to identify the known quantities in a problem?', 'llm_judge': '\n\n1'}
+{'question': 'In one-dimensional kinematics, what does "stopped" mean in terms of velocity?', 'llm_judge': '\n\n1'}
+{'question': 'Why is a conceptual understanding of a problem important in physics?', 'llm_judge': '\n\n0'}
+{'question': 'How can drawing a simple sketch help in problem-solving in physics?', 'llm_judge': '\n\n0'}
+{'question': 'What is the significance of initial time and position in problem-solving for one-dimensional kinematics?', 'llm_judge': '\n\n1'}
+{'question': 'Why is it more powerful to apply broad physical principles to specific situations rather than memorizing facts?', 'llm_judge': '\n\n0'}
+{'question': 'How can identifying the known quantities help in solving physics problems?', 'llm_judge': '\n\n0'}
+{'question': 'Why is problem-solving an essential skill in physics?', 'llm_judge': '\n\n0'}
+{'question': 'Why do all objects, regardless of mass, fall towards the center of the Earth with the same constant acceleration?', 'llm_judge': '\n\n0'}
+{'question': 'What is the significance of neglecting air resistance and friction when discussing falling objects?', 'llm_judge': '\n\n0'}
+{'question': 'What factors should we consider when determining if the results of a physics problem are reasonable?', 'llm_judge': '\n\n0'}
+{'question': 'How can checking the reasonableness of our answers help build intuition in accurately describing nature?', 'llm_judge': '\n\n0'}
+{'question': 'Why is it unexpected that lighter objects fall at the same rate as heavier objects when air resistance and friction are neglected?', 'llm_judge': '\n\n0'}
+{'question': 'Explain how checking reasonableness can help identify errors in problem solving.', 'llm_judge': '\n\n0'}
+{'question': "What should you do if a person's final velocity is calculated to be 40 m/s after accelerating for 100 seconds?", 'llm_judge': '\n\n1'}
+{'question': 'Why is it important to understand the concept of falling objects in relation to gravity?', 'llm_judge': '\n\n0'}
+{'question': 'How does checking the reasonableness of answers in physics problems align with the scientific method?', 'llm_judge': '\n\n0'}
+Downloading readme:   0%|          | 0.00/31.0 [00:00<?, ?B/s]Downloading readme: 100%|██████████| 31.0/31.0 [00:00<00:00, 119B/s]Downloading readme: 100%|██████████| 31.0/31.0 [00:00<00:00, 119B/s]
+Downloading data:   0%|          | 0.00/46.9k [00:00<?, ?B/s]Downloading data: 100%|██████████| 46.9k/46.9k [00:00<00:00, 150kB/s]Downloading data: 100%|██████████| 46.9k/46.9k [00:00<00:00, 149kB/s]
+Generating train split: 0 examples [00:00, ? examples/s]Generating train split: 500 examples [00:00, 45992.19 examples/s]
+processing:   0%|          | 0/100 [00:00<?, ?it/s]processing:   1%|          | 1/100 [00:00<01:13,  1.35it/s]processing:   2%|▏         | 2/100 [00:01<01:29,  1.10it/s]processing:   3%|▎         | 3/100 [00:33<24:22, 15.07s/it]processing:   4%|▍         | 4/100 [00:54<28:00, 17.50s/it]processing:   5%|▌         | 5/100 [00:55<18:08, 11.46s/it]processing:   6%|▌         | 6/100 [01:10<19:59, 12.76s/it]processing:   7%|▋         | 7/100 [01:12<13:57,  9.01s/it]processing:   8%|▊         | 8/100 [01:12<09:42,  6.33s/it]processing:   9%|▉         | 9/100 [01:29<14:20,  9.46s/it]processing:  10%|█         | 10/100 [01:39<14:41,  9.80s/it]processing:  11%|█         | 11/100 [02:01<19:48, 13.35s/it]processing:  12%|█▏        | 12/100 [02:17<20:43, 14.13s/it]processing:  13%|█▎        | 13/100 [02:33<21:28, 14.81s/it]processing:  14%|█▍        | 14/100 [02:48<21:08, 14.75s/it]processing:  15%|█▌        | 15/100 [02:48<14:54, 10.53s/it]processing:  16%|█▌        | 16/100 [03:02<16:14, 11.60s/it]processing:  17%|█▋        | 17/100 [03:26<21:14, 15.35s/it]processing:  18%|█▊        | 18/100 [03:37<18:51, 13.79s/it]processing:  19%|█▉        | 19/100 [03:53<19:49, 14.68s/it]processing:  20%|██        | 20/100 [04:10<20:23, 15.29s/it]processing:  21%|██        | 21/100 [04:19<17:38, 13.40s/it]processing:  22%|██▏       | 22/100 [04:29<16:04, 12.37s/it]processing:  23%|██▎       | 23/100 [04:47<17:59, 14.02s/it]processing:  24%|██▍       | 24/100 [05:06<19:34, 15.45s/it]processing:  25%|██▌       | 25/100 [05:15<17:11, 13.76s/it]processing:  26%|██▌       | 26/100 [05:27<16:06, 13.07s/it]processing:  27%|██▋       | 27/100 [05:28<11:30,  9.46s/it]processing:  28%|██▊       | 28/100 [05:37<11:20,  9.45s/it]processing:  29%|██▉       | 29/100 [05:38<08:02,  6.79s/it]processing:  30%|███       | 30/100 [05:39<05:48,  4.99s/it]processing:  31%|███       | 31/100 [05:40<04:24,  3.83s/it]processing:  32%|███▏      | 32/100 [05:41<03:14,  2.86s/it]processing:  33%|███▎      | 33/100 [05:58<08:10,  7.33s/it]processing:  34%|███▍      | 34/100 [06:17<11:51, 10.78s/it]processing:  35%|███▌      | 35/100 [06:33<13:11, 12.18s/it]processing:  36%|███▌      | 36/100 [06:33<09:17,  8.71s/it]processing:  37%|███▋      | 37/100 [06:34<06:41,  6.38s/it]processing:  38%|███▊      | 38/100 [06:48<08:48,  8.53s/it]processing:  39%|███▉      | 39/100 [06:58<09:10,  9.02s/it]processing:  40%|████      | 40/100 [06:59<06:35,  6.60s/it]processing:  41%|████      | 41/100 [06:59<04:44,  4.83s/it]processing:  42%|████▏     | 42/100 [07:16<08:11,  8.47s/it]processing:  43%|████▎     | 43/100 [07:35<10:51, 11.43s/it]processing:  44%|████▍     | 44/100 [07:50<11:43, 12.56s/it]processing:  45%|████▌     | 45/100 [07:51<08:16,  9.03s/it]processing:  46%|████▌     | 46/100 [08:04<09:23, 10.44s/it]processing:  47%|████▋     | 47/100 [08:16<09:31, 10.78s/it]processing:  48%|████▊     | 48/100 [08:28<09:40, 11.15s/it]processing:  49%|████▉     | 49/100 [08:29<06:47,  7.99s/it]processing:  50%|█████     | 50/100 [08:29<04:48,  5.77s/it]processing:  51%|█████     | 51/100 [08:48<07:49,  9.57s/it]processing:  52%|█████▏    | 52/100 [08:48<05:32,  6.92s/it]processing:  53%|█████▎    | 53/100 [09:05<07:42,  9.84s/it]processing:  54%|█████▍    | 54/100 [09:25<09:45, 12.72s/it]processing:  55%|█████▌    | 55/100 [09:41<10:17, 13.71s/it]processing:  56%|█████▌    | 56/100 [09:41<07:13,  9.85s/it]processing:  57%|█████▋    | 57/100 [09:42<05:07,  7.14s/it]processing:  58%|█████▊    | 58/100 [09:43<03:37,  5.18s/it]processing:  59%|█████▉    | 59/100 [10:00<06:00,  8.80s/it]processing:  60%|██████    | 60/100 [10:15<06:59, 10.49s/it]processing:  61%|██████    | 61/100 [10:31<07:55, 12.18s/it]processing:  62%|██████▏   | 62/100 [10:44<07:58, 12.58s/it]processing:  63%|██████▎   | 63/100 [10:55<07:31, 12.19s/it]processing:  64%|██████▍   | 64/100 [10:56<05:15,  8.77s/it]processing:  65%|██████▌   | 65/100 [10:57<03:42,  6.34s/it]processing:  66%|██████▌   | 66/100 [11:19<06:13, 11.00s/it]processing:  67%|██████▋   | 67/100 [11:34<06:46, 12.31s/it]processing:  68%|██████▊   | 68/100 [11:47<06:34, 12.34s/it]processing:  69%|██████▉   | 69/100 [12:02<06:51, 13.29s/it]processing:  70%|███████   | 70/100 [12:19<07:08, 14.28s/it]processing:  71%|███████   | 71/100 [12:36<07:17, 15.08s/it]{'question': "Please write down as many names as you beginning with letter 'A': Alice, Ann, Andrew", 'llm_judge': '\n\n0'}
+{'question': 'Name famous impressionist painters: Claude Monet, Pierre-Auguste Renoir, Edgar Degas', 'llm_judge': '\n\n0'}
+{'question': 'Write down all phases of the Moon: New Moon, First Quarter, Full Moon', 'llm_judge': '\n\n0'}
+{'question': 'Identify mountains over 8,000 meters: Mount Everest, K2, Kangchenjunga', 'llm_judge': '\n\n0'}
+{'question': 'What are the primary colors in the RGB color model?: Red, Green, Blue', 'llm_judge': '\n\n0'}
+{'question': 'List mammals found in Africa: African Elephant, Lion, Giraffe', 'llm_judge': '\n\n0'}
+{'question': 'List countries with monarchies: United Kingdom, Japan, Saudi Arabia', 'llm_judge': '\n\n0'}
+{'question': 'Can you name various types of renewable energy sources?: Solar, Wind, Hydropower', 'llm_judge': '\n\n0'}
+{'question': 'Name neurotransmitters in the human brain: Dopamine, Serotonin, GABA', 'llm_judge': '\n\n0'}
+{'question': 'Identify plants used in traditional medicine: Aloe Vera, Echinacea, Ginseng', 'llm_judge': '\n\n0'}
+{'question': 'Identify animals with bioluminescence: Firefly, Anglerfish, Jellyfish', 'llm_judge': '\n\n0'}
+{'question': 'Name mammals with webbed feet: Platypus, Beaver, Otter', 'llm_judge': '\n\n0'}
+{'question': 'Name elements used in batteries: Lithium, Nickel, Cobalt', 'llm_judge': '\n\n0'}
+{'question': "List countries in Africa starting with 'A': Algeria, Angola, Algeria", 'llm_judge': '\n\n0'}
+{'question': 'Name flowers blooming in spring: Tulip, Daffodil, Cherry Blossom', 'llm_judge': '\n\n0'}
+{'question': 'Name animals with adaptations for desert life: Camel, Fennec Fox, Kangaroo Rat', 'llm_judge': '\n\n0'}
+{'question': 'Name elements discovered after 1950: Einsteinium, Fermium, Mendelevium', 'llm_judge': '\n\n0'}
+{'question': 'Write down fruits grown near the equator: Banana, Mango, Pineapple', 'llm_judge': '\n\n0'}
+{'question': 'Write down countries with Arctic and Atlantic coastlines: Canada, Norway, Russia', 'llm_judge': '\n\n0'}
+{'question': 'What are some common programming languages used in web development?: JavaScript, Python, PHP', 'llm_judge': '\n\n0'}
+{'question': 'Identify birds with elaborate mating dances: Peacock, Bird-of-Paradise, Bowerbird', 'llm_judge': '\n\n0'}
+{'question': 'List programming languages used in data science: R, Python, SQL', 'llm_judge': '\n\n0'}
+{'question': 'Identify birds with iridescent feathers: Hummingbird, Peacock, Starling', 'llm_judge': '\n\n1'}
+{'question': 'Name integers between 1 and 100 divisible by 3 but not perfect squares: 3, 6, 12', 'llm_judge': '\n\n1'}
+{'question': 'List vegetables that grow underground: Potato, Carrot, Onion', 'llm_judge': '\n\n0'}
+{'question': 'Identify flowers with petals: Rose, Sunflower, Daisy', 'llm_judge': '\n\n0'}
+{'question': 'Write down types of volcanic eruptions: Strombolian, Plinian, Hawaiian', 'llm_judge': '\n\n0'}
+{'question': 'Identify renewable energy storage methods: Lithium-ion Batteries, Pumped Hydro, Flywheels', 'llm_judge': '\n\n0'}
+{'question': 'Identify types of artificial intelligence applications: Chatbots, Image Recognition, Autonomous Vehicles', 'llm_judge': '\n\n0'}
+{'question': 'List major events in the French Revolution: Storming of the Bastille, Reign of Terror, Rise of Napoleon', 'llm_judge': '\n\n0'}
+{'question': 'What are some traditional Japanese musical instruments?: Shamisen, Koto, Taiko', 'llm_judge': '\n\n0'}
+{'question': 'Name colors in the visible spectrum: Red, Orange, Green', 'llm_judge': '\n\n0'}
+{'question': 'List countries with tidal energy projects: South Korea, France, Canada', 'llm_judge': '\n\n0'}
+{'question': 'List types of cheese: Cheddar, Brie, Gouda', 'llm_judge': '\n\n0'}
+{'question': 'Identify plants with thick leaves and poisonous: Aloe Vera (latex), Oleander, Dieffenbachia', 'llm_judge': '\n\n0'}
+{'question': 'List animals with symbiotic relationships: Clownfish and Sea Anemone, Oxpecker and Rhino, Lichen (algae + fungus)', 'llm_judge': '\n\n0'}
+{'question': 'Name types of traditional Japanese theater: Noh, Kabuki, Bunraku', 'llm_judge': '\n\n0'}
+{'question': 'Name elements in the set {1,2,...,n} dividing n! evenly: 1, 2, 3', 'llm_judge': '\n\n1'}
+{'question': 'List animals with camouflage abilities: Chameleon, Octopus, Arctic Fox', 'llm_judge': '\n\n0'}
+{'question': 'Name three-digit numbers containing at least one non-even digit: 101, 123, 345', 'llm_judge': '\n\n0'}
+{'question': 'List Baroque composers: Johann Sebastian Bach, Antonio Vivaldi, George Frideric Handel', 'llm_judge': '\n\n0'}
+{'question': 'Name colors in a rainbow: Red, Orange, Yellow', 'llm_judge': '\n\n0'}
+{'question': 'List elements of order 2 in ℤ₂₀: 10, 0 (mod 20), 10', 'llm_judge': '\n\n1'}
+{'question': 'List cities built on rivers: London, Paris, Cairo', 'llm_judge': '\n\n0'}
+{'question': "List countries with capitals ending in 'A': China (Beijing), India (New Delhi), Russia (Moscow)", 'llm_judge': '\n\n0'}
+{'question': 'Name elements discovered in the 21st century: Livermorium, Oganesson, Tennessine', 'llm_judge': '\n\n0'}
+{'question': 'Identify countries with GDP per capita over $50,000: Luxembourg, Switzerland, Norway', 'llm_judge': '\n\n1'}
+{'question': 'Identify fruits used in desserts: Apple, Strawberry, Banana', 'llm_judge': '\n\n0'}
+{'question': 'Write down types of renewable energy policies: Feed-in Tariffs, Tax Credits, Renewable Portfolio Standards', 'llm_judge': '\n\n0'}
+{'question': 'Write down types of renewable energy challenges: Intermittency, Storage Limitations, High Initial Costs', 'llm_judge': '\n\n0'}
+{'question': 'Identify vegetables high in protein: Spinach, Broccoli, Peas', 'llm_judge': '\n\n0'}
+{'question': "Identify movies released in 2019 on IMDB's top-50: Parasite, Joker, Avengers: Endgame", 'llm_judge': '\n\n0'}
+{'question': 'Identify classical dance forms of India: Bharatanatyam, Kathak, Odissi', 'llm_judge': '\n\n0'}
+{'question': 'List states where it snows in winter and are part of New England: Vermont, New Hampshire, Maine', 'llm_judge': '\n\n0'}
+{'question': 'List inventions from the Industrial Revolution: Steam Engine, Spinning Jenny, Telegraph', 'llm_judge': '\n\n0'}
+{'question': 'List states east of the Mississippi with land area over 5,000 sq mi: Georgia, Michigan, Pennsylvania', 'llm_judge': '\n\n0'}
+{'question': 'List countries with wind energy leadership: Germany, China, United States', 'llm_judge': '\n\n0'}
+{'question': 'List types of triangles excluding right and isosceles: Scalene Triangle, Equilateral Triangle, Obtuse Triangle', 'llm_judge': '\n\n0'}
+{'question': 'Name countries in Asia part of OPEC: Saudi Arabia, Iran, Iraq', 'llm_judge': '\n\n0'}
+{'question': 'List mammals that eat mainly plants: Koala, Panda, Manatee', 'llm_judge': '\n\n0'}
+{'question': 'Name extinct animal species: Dodo, Woolly Mammoth, Tasmanian Tiger', 'llm_judge': '\n\n0'}
+{'question': 'Name types of plants needing soil, water, and sunlight: Sunflower, Tomato Plant, Oak Tree', 'llm_judge': '\n\n0'}
+{'question': 'Identify plants surviving extreme drought: Cactus, Agave, Succulents', 'llm_judge': '\n\n0'}
+{'question': 'Write down prime numbers between 1 and 15 greater than five: 7, 11, 13', 'llm_judge': '\n\n1'}
+{'question': 'Identify flowers blooming at night: Moonflower, Night-Blooming Cereus, Evening Primrose', 'llm_judge': '\n\n0'}
+{'question': 'List animals with more than two legs: Centipede, Millipede, Spider', 'llm_judge': '\n\n0'}
+{'question': 'Write down planets in descending order of size: Jupiter, Saturn, Uranus', 'llm_judge': '\n\n0'}
+{'question': "Write down birds starting with 'C': Crow, Crane, Cardinal", 'llm_judge': '\n\n0'}
+{'question': 'Identify major rivers that flow through Asia: Yangtze, Ganges, Indus', 'llm_judge': '\n\n0'}
+{'question': "Identify countries starting with 'C' who won the 2022 World Cup: Argentina", 'llm_judge': '\n\n0'}
+{'question': 'List countries with populations over 100 million: India, United States, Indonesia', 'llm_judge': '\n\n0'}
+processing:  72%|███████▏  | 72/100 [12:36<05:00, 10.73s/it]processing:  73%|███████▎  | 73/100 [12:54<05:43, 12.73s/it]processing:  74%|███████▍  | 74/100 [13:08<05:44, 13.25s/it]processing:  75%|███████▌  | 75/100 [13:24<05:51, 14.06s/it]processing:  76%|███████▌  | 76/100 [13:25<04:00, 10.04s/it]processing:  77%|███████▋  | 77/100 [13:25<02:46,  7.24s/it]processing:  78%|███████▊  | 78/100 [13:26<01:55,  5.25s/it]processing:  79%|███████▉  | 79/100 [13:27<01:20,  3.85s/it]processing:  80%|████████  | 80/100 [13:27<00:57,  2.87s/it]processing:  81%|████████  | 81/100 [13:37<01:36,  5.10s/it]processing:  82%|████████▏ | 82/100 [13:53<02:29,  8.29s/it]processing:  83%|████████▎ | 83/100 [14:08<02:56, 10.36s/it]processing:  84%|████████▍ | 84/100 [14:23<03:08, 11.76s/it]processing:  85%|████████▌ | 85/100 [14:37<03:03, 12.26s/it]processing:  86%|████████▌ | 86/100 [14:37<02:03,  8.79s/it]processing:  87%|████████▋ | 87/100 [14:54<02:25, 11.17s/it]processing:  88%|████████▊ | 88/100 [15:12<02:36, 13.02s/it]processing:  89%|████████▉ | 89/100 [15:28<02:34, 14.01s/it]processing:  90%|█████████ | 90/100 [15:43<02:24, 14.44s/it]processing:  91%|█████████ | 91/100 [15:44<01:32, 10.31s/it]processing:  92%|█████████▏| 92/100 [15:56<01:27, 10.89s/it]processing:  93%|█████████▎| 93/100 [15:57<00:54,  7.80s/it]processing:  94%|█████████▍| 94/100 [16:09<00:54,  9.09s/it]processing:  95%|█████████▌| 95/100 [16:23<00:52, 10.57s/it]processing:  96%|█████████▌| 96/100 [16:38<00:47, 11.95s/it]processing:  97%|█████████▋| 97/100 [16:49<00:34, 11.54s/it]processing:  98%|█████████▊| 98/100 [16:49<00:16,  8.29s/it]processing:  99%|█████████▉| 99/100 [16:56<00:07,  7.88s/it]processing: 100%|██████████| 100/100 [16:57<00:00,  5.69s/it]processing: 100%|██████████| 100/100 [16:57<00:00, 10.17s/it]
+{'question': 'Name fruits with medicinal properties: Blueberry (antioxidants), Turmeric (anti-inflammatory), Ginger (digestive aid)', 'llm_judge': '\n\n0'}
+{'question': 'List Nobel Prize categories: Physics, Chemistry, Peace', 'llm_judge': '\n\n0'}
+{'question': 'List mammals that lay eggs: Platypus, Echidna', 'llm_judge': '\n\n0'}
+{'question': 'List countries that were part of the Roman Empire: Italy, France, Spain', 'llm_judge': '\n\n0'}
+{'question': 'Identify US presidents who were assassinated: Abraham Lincoln, John F. Kennedy, James A. Garfield', 'llm_judge': '\n\n1'}
+{'question': 'Name all the continents on Earth: Asia, Africa, Europe', 'llm_judge': '\n\n0'}
+{'question': 'Name elements with atomic numbers greater than uranium: Neptunium (93), Plutonium (94), Americium (95)', 'llm_judge': '\n\n0'}
+{'question': 'Identify planets with extreme temperatures: Venus (hottest), Mercury (temperature swings), Neptune (coldest)', 'llm_judge': '\n\n0'}
+{'question': 'What are common types of phobias?: Arachnophobia (spiders), Claustrophobia (confined spaces), Acrophobia (heights)', 'llm_judge': '\n\n0'}
+{'question': 'Name elements used in solar panels: Silicon, Silver, Aluminum', 'llm_judge': '\n\n0'}
+{'question': 'List as many Olympic sports as possible: Athletics, Swimming, Gymnastics', 'llm_judge': '\n\n0'}
+{'question': 'List elements in Periodic Table Group 2B with specific electron configurations: Zinc, Cadmium, Mercury', 'llm_judge': '\n\n0'}
+{'question': 'Name elements in the noble gas group: Helium, Neon, Argon', 'llm_judge': '\n\n0'}
+{'question': 'Name composers of the Classical period: Mozart, Haydn, Beethoven', 'llm_judge': '\n\n1'}
+{'question': 'List international space agencies: NASA (USA), Roscosmos (Russia), ESA (Europe)', 'llm_judge': '\n\n0'}
+{'question': 'List countries with significant coral reefs: Australia (Great Barrier Reef), Philippines, Indonesia', 'llm_judge': '\n\n0'}
+{'question': 'Write down types of quantum particles: Photon, Electron, Quark', 'llm_judge': '\n\n0'}
+{'question': 'Name countries in Western Europe with fewer than 15 million people: Luxembourg, Iceland, Malta', 'llm_judge': '\n\n0'}
+{'question': 'Please list as many countries in South America as you can: Brazil, Argentina, Colombia', 'llm_judge': '\n\n0'}
+{'question': 'Name cities in New Zealand where it snows: Queenstown, Christchurch, Wanaka', 'llm_judge': '\n\n0'}
+{'question': 'Write down languages spoken in India: Hindi, Bengali, Tamil', 'llm_judge': '\n\n0'}
+{'question': 'Name fruits used in alcoholic beverages: Grape (wine), Apple (cider), Juniper (gin)', 'llm_judge': '\n\n0'}
+{'question': 'Write down as many Shakespearean plays as you know: Hamlet, Romeo and Juliet, Macbeth', 'llm_judge': '\n\n1'}
+{'question': 'Name plants that are not grasses: Oak Tree, Rose, Cactus', 'llm_judge': '\n\n0'}
+{'question': 'Name sports in Olympic competitions: Basketball, Soccer, Tennis', 'llm_judge': '\n\n0'}
+{'question': 'Provide examples of mammals that live in aquatic environments: Whale, Dolphin, Seal', 'llm_judge': '\n\n0'}
+{'question': 'Identify traditional Chinese tea varieties: Green Tea, Oolong Tea, Pu-erh Tea', 'llm_judge': '\n\n0'}
+{'question': 'List cryptocurrency names: Bitcoin, Ethereum, Litecoin', 'llm_judge': '\n\n0'}
+{'question': 'Write down types of renewable energy storage: Hydrogen Storage, Thermal Storage, Compressed Air', 'llm_judge': '\n\n0'}
+Downloading readme:   0%|          | 0.00/2.28k [00:00<?, ?B/s]Downloading readme: 100%|██████████| 2.28k/2.28k [00:00<00:00, 6.11kB/s]Downloading readme: 100%|██████████| 2.28k/2.28k [00:00<00:00, 6.10kB/s]
+Downloading data:   0%|          | 0.00/44.0M [00:00<?, ?B/s]Downloading data:  24%|██▍       | 10.5M/44.0M [00:03<00:10, 3.05MB/s]Downloading data:  48%|████▊     | 21.0M/44.0M [00:04<00:04, 5.61MB/s]Downloading data:  72%|███████▏  | 31.5M/44.0M [00:04<00:01, 7.67MB/s]Downloading data:  95%|█████████▌| 41.9M/44.0M [00:05<00:00, 9.31MB/s]Downloading data: 100%|██████████| 44.0M/44.0M [00:05<00:00, 9.75MB/s]Downloading data: 100%|██████████| 44.0M/44.0M [00:05<00:00, 7.51MB/s]
+Generating train split:   0%|          | 0/100231 [00:00<?, ? examples/s]Generating train split:  19%|█▉        | 19000/100231 [00:00<00:00, 176893.93 examples/s]Generating train split:  42%|████▏     | 42000/100231 [00:00<00:00, 201180.76 examples/s]Generating train split:  66%|██████▌   | 66000/100231 [00:00<00:00, 176621.95 examples/s]Generating train split:  86%|████████▌ | 86000/100231 [00:00<00:00, 180913.63 examples/s]Generating train split: 100%|██████████| 100231/100231 [00:00<00:00, 184260.63 examples/s]
+processing:   0%|          | 0/100 [00:00<?, ?it/s]processing:   1%|          | 1/100 [00:09<15:51,  9.61s/it]processing:   2%|▏         | 2/100 [00:10<07:01,  4.30s/it]processing:   3%|▎         | 3/100 [00:10<04:21,  2.70s/it]processing:   4%|▍         | 4/100 [00:22<09:42,  6.07s/it]processing:   5%|▌         | 5/100 [00:22<06:34,  4.15s/it]processing:   6%|▌         | 6/100 [00:40<13:41,  8.74s/it]processing:   7%|▋         | 7/100 [00:49<13:29,  8.71s/it]processing:   8%|▊         | 8/100 [01:04<16:39, 10.87s/it]processing:   9%|▉         | 9/100 [01:05<11:46,  7.76s/it]processing:  10%|█         | 10/100 [01:21<15:24, 10.27s/it]processing:  11%|█         | 11/100 [01:22<10:53,  7.34s/it]processing:  12%|█▏        | 12/100 [01:22<07:45,  5.29s/it]processing:  13%|█▎        | 13/100 [01:39<12:33,  8.66s/it]processing:  14%|█▍        | 14/100 [01:40<08:58,  6.26s/it]processing:  15%|█▌        | 15/100 [01:54<12:20,  8.71s/it]processing:  16%|█▌        | 16/100 [02:09<14:55, 10.66s/it]processing:  17%|█▋        | 17/100 [02:32<19:51, 14.36s/it]processing:  18%|█▊        | 18/100 [02:33<14:00, 10.25s/it]processing:  19%|█▉        | 19/100 [02:33<09:58,  7.39s/it]processing:  20%|██        | 20/100 [02:50<13:42, 10.29s/it]processing:  21%|██        | 21/100 [02:51<09:47,  7.43s/it]processing:  22%|██▏       | 22/100 [02:52<07:09,  5.51s/it]processing:  23%|██▎       | 23/100 [03:08<10:58,  8.55s/it]processing:  24%|██▍       | 24/100 [03:22<13:03, 10.31s/it]processing:  25%|██▌       | 25/100 [03:32<12:39, 10.13s/it]processing:  26%|██▌       | 26/100 [03:47<14:23, 11.67s/it]processing:  27%|██▋       | 27/100 [03:57<13:24, 11.02s/it]processing:  28%|██▊       | 28/100 [04:10<14:08, 11.79s/it]processing:  29%|██▉       | 29/100 [04:11<10:02,  8.49s/it]processing:  30%|███       | 30/100 [04:28<12:40, 10.87s/it]processing:  31%|███       | 31/100 [04:41<13:11, 11.47s/it]processing:  32%|███▏      | 32/100 [04:41<09:20,  8.24s/it]processing:  33%|███▎      | 33/100 [04:56<11:26, 10.25s/it]processing:  34%|███▍      | 34/100 [05:11<12:45, 11.60s/it]processing:  35%|███▌      | 35/100 [05:30<14:58, 13.82s/it]processing:  36%|███▌      | 36/100 [05:44<14:51, 13.93s/it]processing:  37%|███▋      | 37/100 [06:06<17:10, 16.36s/it]processing:  38%|███▊      | 38/100 [06:21<16:22, 15.85s/it]processing:  39%|███▉      | 39/100 [06:36<16:01, 15.76s/it]processing:  40%|████      | 40/100 [06:52<15:38, 15.64s/it]processing:  41%|████      | 41/100 [07:08<15:37, 15.89s/it]processing:  42%|████▏     | 42/100 [07:22<14:44, 15.25s/it]processing:  43%|████▎     | 43/100 [07:23<10:20, 10.88s/it]processing:  44%|████▍     | 44/100 [07:24<07:22,  7.91s/it]processing:  45%|████▌     | 45/100 [07:24<05:15,  5.74s/it]processing:  46%|████▌     | 46/100 [07:46<09:37, 10.69s/it]processing:  47%|████▋     | 47/100 [08:00<10:16, 11.64s/it]processing:  48%|████▊     | 48/100 [08:01<07:15,  8.37s/it]processing:  49%|████▉     | 49/100 [08:02<05:09,  6.07s/it]processing:  50%|█████     | 50/100 [08:02<03:42,  4.45s/it]processing:  51%|█████     | 51/100 [08:03<02:45,  3.38s/it]processing:  52%|█████▏    | 52/100 [08:04<02:04,  2.59s/it]processing:  53%|█████▎    | 53/100 [08:05<01:34,  2.02s/it]processing:  54%|█████▍    | 54/100 [08:19<04:14,  5.53s/it]processing:  55%|█████▌    | 55/100 [08:19<03:02,  4.05s/it]processing:  56%|█████▌    | 56/100 [08:33<05:04,  6.92s/it]processing:  57%|█████▋    | 57/100 [08:33<03:37,  5.05s/it]processing:  58%|█████▊    | 58/100 [08:34<02:40,  3.82s/it]processing:  59%|█████▉    | 59/100 [08:53<05:38,  8.24s/it]processing:  60%|██████    | 60/100 [09:10<07:14, 10.85s/it]processing:  61%|██████    | 61/100 [09:11<05:04,  7.80s/it]processing:  62%|██████▏   | 62/100 [09:20<05:15,  8.29s/it]processing:  63%|██████▎   | 63/100 [09:21<03:42,  6.01s/it]processing:  64%|██████▍   | 64/100 [09:21<02:38,  4.41s/it]processing:  65%|██████▌   | 65/100 [09:22<01:55,  3.30s/it]processing:  66%|██████▌   | 66/100 [09:39<04:13,  7.46s/it]processing:  67%|██████▋   | 67/100 [09:52<04:59,  9.08s/it]processing:  68%|██████▊   | 68/100 [10:12<06:32, 12.27s/it]processing:  69%|██████▉   | 69/100 [10:13<04:33,  8.81s/it]processing:  70%|███████   | 70/100 [10:29<05:30, 11.03s/it]processing:  71%|███████   | 71/100 [11:27<12:08, 25.11s/it]processing:  72%|███████▏  | 72/100 [11:46<10:57, 23.50s/it]processing:  73%|███████▎  | 73/100 [11:47<07:29, 16.66s/it]processing:  74%|███████▍  | 74/100 [12:05<07:20, 16.94s/it]processing:  75%|███████▌  | 75/100 [12:20<06:54, 16.58s/it]processing:  76%|███████▌  | 76/100 [12:39<06:55, 17.29s/it]processing:  77%|███████▋  | 77/100 [12:55<06:28, 16.91s/it]processing:  78%|███████▊  | 78/100 [13:08<05:41, 15.51s/it]processing:  79%|███████▉  | 79/100 [13:09<03:55, 11.22s/it]processing:  80%|████████  | 80/100 [13:10<02:41,  8.06s/it]processing:  81%|████████  | 81/100 [13:25<03:14, 10.26s/it]processing:  82%|████████▏ | 82/100 [13:41<03:37, 12.06s/it]processing:  83%|████████▎ | 83/100 [13:54<03:30, 12.41s/it]processing:  84%|████████▍ | 84/100 [14:09<03:29, 13.07s/it]processing:  85%|████████▌ | 85/100 [14:27<03:37, 14.47s/it]processing:  86%|████████▌ | 86/100 [14:43<03:30, 15.01s/it]processing:  87%|████████▋ | 87/100 [15:00<03:21, 15.48s/it]processing:  88%|████████▊ | 88/100 [15:11<02:51, 14.32s/it]processing:  89%|████████▉ | 89/100 [15:24<02:33, 13.92s/it]processing:  90%|█████████ | 90/100 [15:41<02:26, 14.66s/it]processing:  91%|█████████ | 91/100 [15:56<02:13, 14.87s/it]processing:  92%|█████████▏| 92/100 [16:11<01:59, 14.97s/it]processing:  93%|█████████▎| 93/100 [16:27<01:45, 15.12s/it]processing:  94%|█████████▍| 94/100 [16:27<01:04, 10.82s/it]processing:  95%|█████████▌| 95/100 [16:43<01:00, 12.13s/it]{'question': 'when did richmond last play in a preliminary final', 'llm_judge': '\n\n1'}
+{'question': "who sang what in the world's come over you", 'llm_judge': '\n\n0'}
+{'question': 'who produces the most wool in the world', 'llm_judge': '\n\n0'}
+{'question': 'where does alaska the last frontier take place', 'llm_judge': '\n\n0'}
+{'question': 'a day to remember all i want cameos', 'llm_judge': '\n\n0'}
+{'question': 'what does the red stripes mean on the american flag', 'llm_judge': '\n\n0'}
+{'question': 'where did they film diary of a wimpy kid', 'llm_judge': '\n\n0'}
+{'question': 'where was beasts of the southern wild filmed', 'llm_judge': '\n\n0'}
+{'question': 'what part of the country are you likely to find the majority of the mollisols', 'llm_judge': '\n\n0'}
+{'question': 'when did fosters home for imaginary friends start', 'llm_judge': '\n\n1'}
+{'question': 'when did us get involved in vietnam war', 'llm_judge': '\n\n0'}
+{'question': 'how are the american declaration of independence and french declaration of the rights of man similar', 'llm_judge': '\n\n0'}
+{'question': 'what territory was fought over by india and pakistan', 'llm_judge': '\n\n0'}
+{'question': 'when did 17 nam summit meet take place', 'llm_judge': '\n\n0'}
+{'question': 'when did jack and the beanstalk take place', 'llm_judge': '\n\n1'}
+{'question': 'what is the meaning of mbbs and md', 'llm_judge': '\n\n0'}
+{'question': 'character sketch of hamlet in the play hamlet', 'llm_judge': '\n\n1'}
+{'question': 'who made the song my achy breaky heart', 'llm_judge': '\n\n0'}
+{'question': 'when do the assassination of gianni versace come on', 'llm_judge': '\n\n0'}
+{'question': 'where was the movie paint your wagon filmed', 'llm_judge': '\n\n0'}
+{'question': 'who sang go rest high on the mountain', 'llm_judge': '\n\n0'}
+{'question': 'when did the movie cooley high come out', 'llm_judge': '\n\n0'}
+{'question': 'i did two tours of duty in vietnam song', 'llm_judge': '\n\n0'}
+{'question': 'where is may i come in madam serial', 'llm_judge': '\n\n0'}
+{'question': "who plays sonny's father in general hospital", 'llm_judge': '\n\n1'}
+{'question': 'when was the first heart transplant performed in the world', 'llm_judge': '\n\n1'}
+{'question': "who does the voice of arby's commercial", 'llm_judge': '\n\n1'}
+{'question': 'when did the us military start using hummers', 'llm_judge': '\n\n1'}
+{'question': 'what time do they stop selling alcohol in south carolina', 'llm_judge': '\n\n1'}
+{'question': 'who is known as a father of indian cricket', 'llm_judge': '\n\n1'}
+{'question': 'what year did they stop making impala ss', 'llm_judge': '\n\n1'}
+{'question': 'amusement park on north carolina south carolina border', 'llm_judge': '\n\n0'}
+{'question': 'does kirby vacuum still sell door to door', 'llm_judge': '\n\n0'}
+{'question': 'who does the voice of madame gazelle in peppa pig', 'llm_judge': '\n\n1'}
+{'question': 'who won the battle of picacho pass in arizona', 'llm_judge': '\n\n0'}
+{'question': 'who gave the motto back to the vedas', 'llm_judge': '\n\n1'}
+{'question': 'when does wally west becomes a speedster in the flash', 'llm_judge': '\n\n0'}
+{'question': 'book that led to the meat inspection act', 'llm_judge': '\n\n0'}
+{'question': 'where does a hamster live in the wild', 'llm_judge': '\n\n0'}
+{'question': 'where was the first mardi gras in the us', 'llm_judge': '\n\n0'}
+{'question': "what's the difference between a calico cat and a tortoiseshell cat", 'llm_judge': '\n\n0'}
+{'question': 'where was 10 things i hate about u filmed', 'llm_judge': '\n\n0'}
+{'question': 'who plays the queen of thorns in game of thrones', 'llm_judge': '\n\n0'}
+{'question': 'where was the movie just getting started filmed at', 'llm_judge': '\n\n0'}
+{'question': 'what is the name of the diamond shaped building in chicago', 'llm_judge': '\n\n0'}
+{'question': 'how many years can you be president in russia', 'llm_judge': '\n\n0'}
+{'question': 'which street is the strip in las vegas', 'llm_judge': '\n\n0'}
+{'question': 'who is the music director of pirates of the caribbean', 'llm_judge': '\n\n0'}
+{'question': 'are anglican and church of england the same', 'llm_judge': '\n\n0'}
+{'question': 'what type of snake is green and black', 'llm_judge': '\n\n0'}
+{'question': 'how did triangular trade benefit european colonies in the americas', 'llm_judge': '\n\n0'}
+{'question': 'when was the department of the navy established', 'llm_judge': '\n\n0'}
+{'question': 'how many votes needed to confirm a supreme court justice', 'llm_judge': '\n\n0'}
+{'question': 'when was mtn mobile money launched in uganda', 'llm_judge': '\n\n1'}
+{'question': 'where does the iron in your blood come from', 'llm_judge': '\n\n0'}
+{'question': 'who composed the pange lingua mass for the sistine chapel choir in about 1513', 'llm_judge': '\n\n1'}
+{'question': 'who sang the sunny side of the street', 'llm_judge': '\n\n0'}
+{'question': 'when did the national anthem became our national anthem', 'llm_judge': '\n\n0'}
+{'question': 'who has the right to issue coins in india', 'llm_judge': '\n\n0'}
+{'question': 'who plays tracey in birds of a feather', 'llm_judge': '\n\n1'}
+{'question': 'who played the emperor in the return of the jedi', 'llm_judge': '\n\n0'}
+{'question': 'when was the microscope invented and by whom', 'llm_judge': '\n\n1'}
+{'question': 'when did the norfolk broads become a national park', 'llm_judge': '\n\n0'}
+{'question': 'who is regarded as the finest stringed instrument builder of all time', 'llm_judge': '\n\n0'}
+{'question': 'where did the dukes of hazzard take place', 'llm_judge': '\n\n0'}
+{'question': 'who replaced clarence in the e street band', 'llm_judge': '\n\n1'}
+{'question': 'when was the safety car introduced in f1', 'llm_judge': '\n\n1'}
+{'question': 'who sang killing me softly with his song first', 'llm_judge': '\n\n1'}
+{'question': 'when does the 18th century start and end', 'llm_judge': '\n\n1'}
+{'question': 'who is the only son of hori and dhaniya in godan', 'llm_judge': '\n\n1'}
+{'question': 'how did jim propose to pam on the office', 'llm_judge': '\n\n0'}
+{'question': 'where did yellowstone national park get its name', 'llm_judge': '\n\n0'}
+{'question': 'who made up the second coalition in 1798', 'llm_judge': '\n\n0'}
+{'question': 'what is the name of ramaiya vastavaiya heroine', 'llm_judge': '\n\n1'}
+{'question': "who does cartman's voice on south park", 'llm_judge': '\n\n1'}
+{'question': 'what is the bullys name on the simpsons', 'llm_judge': '\n\n1'}
+{'question': "where's the old man in pawn stars", 'llm_judge': '\n\n0'}
+{'question': 'who initiated the game of cricket among india and how', 'llm_judge': '\n\n1'}
+{'question': 'where do trans fats go in the body', 'llm_judge': '\n\n0'}
+{'question': 'when was the last time chicago bears went to the superbowl', 'llm_judge': '\n\n0'}
+{'question': 'where did japan get its first writing system from', 'llm_judge': '\n\n0'}
+{'question': 'who holds the record for most lightning strikes', 'llm_judge': '\n\n1'}
+{'question': "who plays bonnie's voice on family guy", 'llm_judge': '\n\n1'}
+{'question': 'what is the total number of fundamental duties mentioned in the constitution of india', 'llm_judge': '\n\n1'}
+{'question': 'who was the lady in sons of anarchy', 'llm_judge': '\n\n1'}
+{'question': 'what is antony and cleopatra the play about', 'llm_judge': '\n\n0'}
+{'question': "when does elena's memories of damon come back", 'llm_judge': '\n\n0'}
+{'question': 'when was the stratosphere hotel built in las vegas', 'llm_judge': '\n\n1'}
+{'question': 'during which season of x factor us were fifth harmony formed', 'llm_judge': '\n\n0'}
+{'question': 'who sang put the lime in the coconut and shake it all up', 'llm_judge': '\n\n1'}
+{'question': 'which river in africa is the water source for the victoria falls', 'llm_judge': '\n\n0'}
+{'question': 'who should be called the father of radio', 'llm_judge': '\n\n1'}
+{'question': 'who plays lucas in days of our lives', 'llm_judge': '\n\n1'}
+{'question': 'who did the chiefs trade alex snith for', 'llm_judge': '\n\n0'}
+{'question': 'when was the wolf of wall street filmed', 'llm_judge': '\n\n1'}
+processing:  96%|█████████▌| 96/100 [16:44<00:35,  8.85s/it]processing:  97%|█████████▋| 97/100 [16:59<00:32, 10.83s/it]processing:  98%|█████████▊| 98/100 [17:12<00:22, 11.38s/it]processing:  99%|█████████▉| 99/100 [17:13<00:08,  8.25s/it]processing: 100%|██████████| 100/100 [17:28<00:00, 10.44s/it]processing: 100%|██████████| 100/100 [17:28<00:00, 10.49s/it]
+{'question': 'where do purple martins go in the winter time', 'llm_judge': '\n\n0'}
+{'question': 'who wrote the south carolina declaration of secession', 'llm_judge': '\n\n1'}
+{'question': 'where is the femur located on the body', 'llm_judge': '\n\n0'}
+{'question': 'where will the ryder cup be held this year', 'llm_judge': '\n\n0'}
+{'question': 'who has the most hat tricks in cricket', 'llm_judge': '\n\n1'}

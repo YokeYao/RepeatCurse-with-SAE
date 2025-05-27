@@ -1,0 +1,42 @@
+nohup: ignoring input
+Running model: Llama-3.1-8B, dataset: EQ, method: ours
+Device: cuda
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.14it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.10s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:03<00:01,  1.18s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:04<00:00,  1.02s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:04<00:00,  1.04s/it]
+WARNING:root:With reduced precision, it is advised to use `from_pretrained_no_processing` instead of `from_pretrained`.
+WARNING:root:You are not using LayerNorm, so the writing weights can't be centered! Skipping
+Loaded pretrained model meta-llama/Llama-3.1-8B into HookedTransformer
+processing dataset::   0%|          | 0/10 [00:00<?, ?it/s]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s][A
+Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:03,  1.25s/it][A
+Loading checkpoint shards:  50%|█████     | 2/4 [00:02<00:02,  1.42s/it][A
+Loading checkpoint shards:  75%|███████▌  | 3/4 [00:04<00:01,  1.47s/it][A
+Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.20s/it][ALoading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.28s/it]
+processing dataset::   0%|          | 0/10 [00:12<?, ?it/s]
+Traceback (most recent call last):
+  File "/root/repeatcurse/Feature_Repeatscore_Batch_Activation.py", line 220, in <module>
+    main()
+  File "/root/repeatcurse/Feature_Repeatscore_Batch_Activation.py", line 217, in main
+    duc(model_path=args.model_path, dataset=args.dataset, save_path=args.save_path)
+  File "/root/repeatcurse/Feature_Repeatscore_Batch_Activation.py", line 200, in duc
+    results = perplexity.compute(model_id=model_path,predictions=decoded_edited)
+  File "/root/miniconda3/lib/python3.10/site-packages/evaluate/module.py", line 467, in compute
+    output = self._compute(**inputs, **compute_kwargs)
+  File "/root/autodl-tmp/.catch/huggingface/modules/evaluate_modules/metrics/evaluate-metric--perplexity/8ab643ad86f568b7d1d5f7822373fa7401ff5ff0297ccf114b0ca6a33be96bc0/perplexity.py", line 115, in _compute
+    model = model.to(device)
+  File "/root/miniconda3/lib/python3.10/site-packages/transformers/modeling_utils.py", line 3110, in to
+    return super().to(*args, **kwargs)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1340, in to
+    return self._apply(convert)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 900, in _apply
+    module._apply(fn)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 900, in _apply
+    module._apply(fn)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 900, in _apply
+    module._apply(fn)
+  [Previous line repeated 2 more times]
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 927, in _apply
+    param_applied = fn(param)
+  File "/root/miniconda3/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1326, in convert
+    return t.to(
+torch.OutOfMemoryError: CUDA out of memory. Tried to allocate 224.00 MiB. GPU 0 has a total capacity of 23.64 GiB of which 173.75 MiB is free. Process 929599 has 23.47 GiB memory in use. Of the allocated memory 23.05 GiB is allocated by PyTorch, and 9.54 MiB is reserved by PyTorch but unallocated. If reserved but unallocated memory is large try setting PYTORCH_CUDA_ALLOC_CONF=expandable_segments:True to avoid fragmentation.  See documentation for Memory Management  (https://pytorch.org/docs/stable/notes/cuda.html#environment-variables)
+All completed!
